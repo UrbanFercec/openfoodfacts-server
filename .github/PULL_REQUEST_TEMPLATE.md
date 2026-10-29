@@ -37,6 +37,7 @@ Following `type`s are allowed:
 
 ### Screenshot or video
 <!-- Insert a screenshot or a video to provide visual record of your changes (if visible) -->
+- [ ] No visible change
 
 ### Related issue(s) and discussion
 <!-- Please add the issue number this issue will close, that way, once your pull request is merged, the issue will be closed as well -->
